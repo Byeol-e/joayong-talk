@@ -26,11 +26,6 @@ body {
     color: #2F363E;
 }
 
-#footer {
-    text-align: center;
-    
-}
-
 .main-screen {
     padding: 0px var(--horizontal-space);
 }
